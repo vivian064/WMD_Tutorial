@@ -1,0 +1,14 @@
+<html>
+   <head>
+         <title> Sample Page</title> 
+	</head>
+     <body>
+            <header>
+                    <h1> Header Section</h1>
+			</header>
+     <aside> 
+          <h2> Aside Section </h2>
+     </aside>	
+    <Main>  
+	 
+</html>
